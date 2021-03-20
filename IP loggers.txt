@@ -58,3 +58,5 @@
 0.0.0.0 www.youramonkey.com
 0.0.0.0 pronosparadise.com
 0.0.0.0 freebooter.pro
+0.0.0.0 ipgrab.org
+0.0.0.0 i.gyazos.com
