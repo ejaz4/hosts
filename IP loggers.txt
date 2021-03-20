@@ -60,3 +60,7 @@
 0.0.0.0 freebooter.pro
 0.0.0.0 ipgrab.org
 0.0.0.0 i.gyazos.com
+0.0.0.0 prntcrs.com
+0.0.0.0 xn--yutube-iqc.com
+0.0.0.0 gyazo.nl
+0.0.0.0 blasze.tk
