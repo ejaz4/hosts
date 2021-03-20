@@ -43,3 +43,12 @@
 0.0.0.0 o2ip.ru
 0.0.0.0 ezstat.ru
 0.0.0.0 blasze.tk
+0.0.0.0 viral.over-blog.com
+0.0.0.0 gyazo.in
+0.0.0.0 ps3cfw.com
+0.0.0.0 urlz.fr
+0.0.0.0 webpanel.space
+0.0.0.0 steamcommumity.com
+0.0.0.0 i.imgur.com.de
+0.0.0.0 www.fuglekos.com
+0.0.0.0 discord.kim
