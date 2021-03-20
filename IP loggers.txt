@@ -63,4 +63,4 @@
 0.0.0.0 prntcrs.com
 0.0.0.0 xn--yutube-iqc.com
 0.0.0.0 gyazo.nl
-0.0.0.0 blasze.tk
+0.0.0.0 blasze.com
