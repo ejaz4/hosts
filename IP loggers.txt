@@ -42,3 +42,4 @@
 0.0.0.0 iplis.ru
 0.0.0.0 o2ip.ru
 0.0.0.0 ezstat.ru
+0.0.0.0 blasze.tk
