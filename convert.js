@@ -8,8 +8,8 @@ const convert = (contents) =>
     .filter((str) => str !== "")
     .filter((str) => str !== "0.0.0.0")
     .filter((str) => !str.includes("localhost"))
-    .map((str) => `||${str}^`)
-    .map((str) => str.replace("\n", ""));
+    .map((str) => str.replace(/(\r\n|\n|\r)/gm, "")) // DIE WINDOWS LINE ENDS!!!!!!!!!!!!!!!!!!!!!!!!!!
+    .map((str) => `||${str}^`);
 
 const ipLogger = fs.readFileSync("./IP loggers.txt").toString();
-fs.writeFileSync("./IP logger.abp.txt", convert(ipLogger).join(""));
+fs.writeFileSync("./IP logger.abp.txt", convert(ipLogger).join("\n"));
